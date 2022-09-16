@@ -1,11 +1,11 @@
-# CECS491-StaticDev
-##Team: Static-Development  
-###Team Members: , Yoosuf Batliwala,  Raymond Lo, Jafet Ortega, Alberto Perez
+** # CECS491-StaticDev **
+** ## Team: Static-Development **  
+** ### Team Members: , Yoosuf Batliwala,  Raymond Lo, Jafet Ortega, Alberto Perez **
 
-###(APP NAME to be determined)
+** ### (APP NAME to be determined) **
 
 Our application is targeted to local performing artists or content creators (Art, Youtubers, POP UPs) who are looking to promote their brands, art, music, and films. Our app will allow creators to post where they will be, and when they will be there. By providing a platform that is geared towards self promotion, artists and creators will be able to connect with their communities and more.
-**BUSINESS REQUIREMENTS**
+ ## **BUSINESS REQUIREMENTS** ##
   1. Features
     a. Account Management 
       i. Two types of users 
@@ -26,7 +26,7 @@ Our application is targeted to local performing artists or content creators (Art
 				1. Email
 				2. Password
 				3. Phone Number 
-**SOFTWARE REQUIREMENTS**
+## **SOFTWARE REQUIREMENTS** ##
   1. Mobile application 
     a. Interface should be simple in design within android devices
   2. User Interface
@@ -36,7 +36,7 @@ Our application is targeted to local performing artists or content creators (Art
     a. Two-factor authentication using SMS
   4. Security
     a. Bind user account to email address
-HARDWARE REQUIREMENTS
+## ** HARDWARE REQUIREMENTS ** ##
 Data Storage
 User profile information will be stored on a cloud database.
 Server
