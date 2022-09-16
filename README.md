@@ -1,8 +1,8 @@
-** # CECS491-StaticDev **
-** ## Team: Static-Development **  
-** ### Team Members: , Yoosuf Batliwala,  Raymond Lo, Jafet Ortega, Alberto Perez **
+## ** CECS491-StaticDev ** ##
+## ** Team: Static-Development **  ##
+## ** Team Members: , Yoosuf Batliwala,  Raymond Lo, Jafet Ortega, Alberto Perez ** ##
 
-** ### (APP NAME to be determined) **
+## **  (APP NAME to be determined) ** ##
 
 Our application is targeted to local performing artists or content creators (Art, Youtubers, POP UPs) who are looking to promote their brands, art, music, and films. Our app will allow creators to post where they will be, and when they will be there. By providing a platform that is geared towards self promotion, artists and creators will be able to connect with their communities and more.
  ## **BUSINESS REQUIREMENTS** ##
@@ -37,15 +37,15 @@ Our application is targeted to local performing artists or content creators (Art
   4. Security
     a. Bind user account to email address
 ## ** HARDWARE REQUIREMENTS ** ##
-Data Storage
-User profile information will be stored on a cloud database.
-Server
-Data and information that does not have to do with user profiles will be stored on a server. 
-Capable of hosting our domain and connecting with our cloud database.
-Compatibility
-Latest Android OS- Android 13 Tiramisu, Android 12L - Snowcone V2
-Web server and cloud database are compatible.
-SUPPORT
+  1. Data Storage
+    a. User profile information will be stored on a cloud database.
+  2. Server
+    a. Data and information that does not have to do with user profiles will be stored on a server. 
+    b. Capable of hosting our domain and connecting with our cloud database.
+  3. Compatibility
+    a. Latest Android OS- Android 13 Tiramisu, Android 12L - Snowcone V2
+    b. Web server and cloud database are compatible.
+## ** SUPPORT ** ##
 Maintenance and Upgrades: Keep up with user feedback regarding bugs and/or quality or life updates to continue stable services.
 
 We need this software to be completed during Q2 of 2023. If there are any questions or issues, contact us and let us know, so adjustments can be made. 
