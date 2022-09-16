@@ -1,4 +1,4 @@
-## ** CECS491-StaticDev ** ##
+## **CECS491-StaticDev** ##
 ## **Team: Static-Development**  ##
 ## **Team Members: , Yoosuf Batliwala,  Raymond Lo, Jafet Ortega, Alberto Perez** ##
 
