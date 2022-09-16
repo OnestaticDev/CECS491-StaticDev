@@ -1,8 +1,8 @@
 ## ** CECS491-StaticDev ** ##
-## ** Team: Static-Development **  ##
-## ** Team Members: , Yoosuf Batliwala,  Raymond Lo, Jafet Ortega, Alberto Perez ** ##
+## **Team: Static-Development**  ##
+## **Team Members: , Yoosuf Batliwala,  Raymond Lo, Jafet Ortega, Alberto Perez** ##
 
-## **  (APP NAME to be determined) ** ##
+## **(APP NAME to be determined)** ##
 
 Our application is targeted to local performing artists or content creators (Art, Youtubers, POP UPs) who are looking to promote their brands, art, music, and films. Our app will allow creators to post where they will be, and when they will be there. By providing a platform that is geared towards self promotion, artists and creators will be able to connect with their communities and more.
  ## **BUSINESS REQUIREMENTS** ##
@@ -36,7 +36,7 @@ Our application is targeted to local performing artists or content creators (Art
     a. Two-factor authentication using SMS
   4. Security
     a. Bind user account to email address
-## ** HARDWARE REQUIREMENTS ** ##
+## **HARDWARE REQUIREMENTS** ##
   1. Data Storage
     a. User profile information will be stored on a cloud database.
   2. Server
@@ -45,7 +45,7 @@ Our application is targeted to local performing artists or content creators (Art
   3. Compatibility
     a. Latest Android OS- Android 13 Tiramisu, Android 12L - Snowcone V2
     b. Web server and cloud database are compatible.
-## ** SUPPORT ** ##
+## **SUPPORT** ##
 Maintenance and Upgrades: Keep up with user feedback regarding bugs and/or quality or life updates to continue stable services.
 
 We need this software to be completed during Q2 of 2023. If there are any questions or issues, contact us and let us know, so adjustments can be made. 
