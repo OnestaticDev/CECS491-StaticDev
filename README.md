@@ -2,7 +2,7 @@
 ## **Team: Static-Development**  ##
 ## **Team Members: , Yoosuf Batliwala,  Raymond Lo, Jafet Ortega, Alberto Perez** ##
 
-## **(APP NAME to be determined)** ##
+## **Howler** ##
 
 Our application is targeted to local performing artists or content creators (Art, Youtubers, POP UPs) who are looking to promote their brands, art, music, and films. Our app will allow creators to post where they will be, and when they will be there. By providing a platform that is geared towards self promotion, artists and creators will be able to connect with their communities and more.
  ## **BUSINESS REQUIREMENTS** ##
